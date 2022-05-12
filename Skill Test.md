@@ -72,7 +72,7 @@ Buatlah sebuah aplikasi web sederhana menggunakan bahasa pemograman yang anda ku
       {
           "token": "XQ39pdVh",
           "ClinicName": "JEC@CORP",
-          "mode": "insertdata",
+          "mode": "updatedata",
           "FirstName": "Rio",
           "MiddleName": "Andi",
           "LastName": "Manurung",
